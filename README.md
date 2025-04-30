@@ -1,4 +1,17 @@
 # Twitter-Sentiment-Analysis-in-Python
+*Company* - Codtech IT solutions
+
+*Name* - Pranay Gautam Dhotre.
+
+*Intern ID* - CT06DA79
+
+*Domain* - Data Analytics
+
+*Duration* - 4 weeks
+
+*Mentor* - Neela Santosh
+
+# Twitter-Sentiment-Analysis-in-Python
 The objective of this task is to detect hate speech in tweets. Tweet contains negative/hate sentiments as well as positive sentiments. So, the task is to classify negative tweets from other tweets.  Given a training sample of tweets and labels, where label '0' denotes the tweet is negative and label '1' denotes the tweet is not negative. The objective is to predict the labels on the test dataset.   
 
 ![alt text](https://github.com/shreyaswankhede/Twitter-Sentiment-Analysis-in-Python/blob/master/twitter.PNG
